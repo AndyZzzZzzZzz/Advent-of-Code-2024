@@ -1,0 +1,19 @@
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r (carriage return)
+Icon\r\r
+
+# Thumbnails
+._*
+
+# Files that might appear during copying
+.Spotlight-V100
+.Trashes
+
+# Ignore VSCode settings
+.vscode/
+
+
